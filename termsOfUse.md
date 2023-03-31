@@ -188,7 +188,7 @@ This section applies to any dispute EXCEPT IT DOESN’T INCLUDE A DISPUTE RELATI
 
 Notice of Dispute
 
-In the event of a dispute, you or Tarot X must give the other a Notice of Dispute, which is a written statement that sets forth the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute via email to: support@tarotx.app. Tarot X will send any Notice of Dispute to you by mail to your address if we have it, or otherwise to your email address. You and Tarot X will attempt to resolve any dispute through informal negotiation within sixty (60) days from the date the Notice of Dispute is sent. After sixty (60) days, you or Tarot X may commence arbitration.
+In the event of a dispute, you or Tarot X must give the other a Notice of Dispute, which is a written statement that sets forth the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute via email to: hi@tarotx.app. Tarot X will send any Notice of Dispute to you by mail to your address if we have it, or otherwise to your email address. You and Tarot X will attempt to resolve any dispute through informal negotiation within sixty (60) days from the date the Notice of Dispute is sent. After sixty (60) days, you or Tarot X may commence arbitration.
 
 
 Binding Arbitration
@@ -233,5 +233,5 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
- - Via Email:  support@tarotx.app
+ - Via Email:  hi@tarotx.app
  - Via this Link:  https://tarotx.app/

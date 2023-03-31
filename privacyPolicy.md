@@ -258,5 +258,5 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
-  - Via Email:  support@tarotx.app
+  - Via Email:  hi@tarotx.app
   - Via this Link:  https://tarotx.app/
