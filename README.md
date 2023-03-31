@@ -1,1 +1,1 @@
-# tarotx.github.io
+# TarotX app
